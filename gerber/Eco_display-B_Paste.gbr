@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.10*
-G04 #@! TF.CreationDate,2024-01-20T18:16:50+03:00*
+G04 #@! TF.CreationDate,2024-01-20T23:09:10+03:00*
 G04 #@! TF.ProjectId,Eco_display,45636f5f-6469-4737-906c-61792e6b6963,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Paste,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.10) date 2024-01-20 18:16:50*
+G04 Created by KiCad (PCBNEW 7.0.10) date 2024-01-20 23:09:10*
 %MOMM*%
 %LPD*%
 G01*
@@ -132,6 +132,9 @@ X146650000Y-74860000D03*
 D21*
 X155500000Y-85690000D03*
 X155500000Y-84730000D03*
+D19*
+X134950000Y-89400000D03*
+X133930000Y-89400000D03*
 D10*
 X151325000Y-65860000D03*
 X147275000Y-65860000D03*
