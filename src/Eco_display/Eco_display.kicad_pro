@@ -450,7 +450,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../STEP/Eco_display.step",
+      "step": "../../STEP/Eco_display_without_conn.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
