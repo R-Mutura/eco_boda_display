@@ -670,7 +670,7 @@
     (property "ki_keywords" "connector")
     (path "/08eb5e08-552a-4a95-8f08-f3a6576cb023")
     (attr through_hole)
-    (fp_text reference "J3" (at 4.385 -2.27 -270) (layer "F.SilkS")
+    (fp_text reference "J3" (at 4.385 -2.27 -270) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2cf99f1d-35bf-46bc-8c60-ba81cdb48c11)
     )
@@ -896,7 +896,7 @@
     (property "ki_keywords" "N-Channel MOSFET")
     (path "/d88d7b4d-b899-488a-9164-79d272e5da69")
     (attr smd)
-    (fp_text reference "Q1" (at 0 2.4) (layer "B.SilkS")
+    (fp_text reference "Q1" (at 0 2.4) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ee6f8122-204f-4ad0-87bd-1764ddffbb11)
     )
@@ -1227,7 +1227,7 @@
     (property "ki_keywords" "R resistor")
     (path "/f5830363-4787-4335-88b3-d33d6ebeafe6")
     (attr smd)
-    (fp_text reference "R2" (at 0 1.43) (layer "B.SilkS")
+    (fp_text reference "R2" (at 0 1.43) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b6efc761-d7dc-41f9-acbc-4e6e155a6725)
     )
@@ -1282,7 +1282,7 @@
     (property "ki_keywords" "quartz resonator ceramic")
     (path "/20469f6c-b50e-4aaf-b653-da3c7632ac62")
     (attr through_hole)
-    (fp_text reference "BZ1" (at 9.533 4.956) (layer "B.SilkS")
+    (fp_text reference "BZ1" (at 9.533 4.956) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 00d74d80-307d-4e99-8ea5-293bb8a3a0e8)
     )
@@ -2695,7 +2695,7 @@
     (property "ki_keywords" "transient voltage suppressor thyrector transil")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/16c71db6-4e4c-454b-b74a-b30eea56afa6")
     (attr smd)
-    (fp_text reference "D1" (at -0.316 1.881 90) (layer "B.SilkS")
+    (fp_text reference "D1" (at -0.316 1.881 90) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp dd43635a-b237-4072-a232-4f6d4b7233ad)
     )
@@ -2873,7 +2873,7 @@
     (property "ki_keywords" "R resistor")
     (path "/2e72979e-8d67-4342-8dde-9161b294d830")
     (attr smd)
-    (fp_text reference "R3" (at 0 1.43) (layer "B.SilkS")
+    (fp_text reference "R3" (at 0 1.43) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 40331724-106d-4e4d-a2a4-71d85d0c5b38)
     )
@@ -2928,7 +2928,7 @@
     (property "ki_keywords" "inductor choke coil reactor magnetic")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/05c913b0-0fa6-4938-9da0-0305e143d9d6")
     (attr smd)
-    (fp_text reference "L2" (at 0 1.17) (layer "B.SilkS")
+    (fp_text reference "L2" (at 0 1.17) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp e065d1ff-057f-441a-8b73-b9953cf9f942)
     )
@@ -3087,7 +3087,7 @@
     (property "ki_keywords" "inductor choke coil reactor magnetic")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/859a0606-074c-49b5-8a3c-0fe61ab02d59")
     (attr smd)
-    (fp_text reference "L1" (at 0 1.17) (layer "B.SilkS")
+    (fp_text reference "L1" (at 0 1.17) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 6475d69d-88cf-46d3-bff1-eb4c8639b842)
     )
@@ -3137,7 +3137,7 @@
     (property "ki_keywords" "transient voltage suppressor thyrector transil")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/4a14c2fa-3f8d-4001-b0b0-0ebaf94a1da1")
     (attr smd)
-    (fp_text reference "D2" (at -3.6 0.2 90) (layer "B.SilkS")
+    (fp_text reference "D2" (at -3.6 0.2 90) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 063fb912-c801-4c0e-8869-751150589bf1)
     )
