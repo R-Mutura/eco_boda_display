@@ -839,7 +839,7 @@
     (descr "Circular Fiducial, 1.5mm bare copper, 3mm soldermask opening")
     (tags "fiducial")
     (attr smd)
-    (fp_text reference "REF**" (at 0 2.4765) (layer "B.SilkS") hide
+    (fp_text reference "REF**" (at 0 2.4765) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3721e6bc-422a-4418-8725-dd8cc00f4805)
     )
@@ -865,7 +865,7 @@
     (descr "Circular Fiducial, 1.5mm bare copper, 3mm soldermask opening")
     (tags "fiducial")
     (attr smd)
-    (fp_text reference "REF**" (at 0 2.4765) (layer "B.SilkS") hide
+    (fp_text reference "REF**" (at 0 2.4765) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 4c1363d9-ee4f-432e-9110-91abb7e325d4)
     )
@@ -896,7 +896,7 @@
     (property "ki_keywords" "N-Channel MOSFET")
     (path "/d88d7b4d-b899-488a-9164-79d272e5da69")
     (attr smd)
-    (fp_text reference "Q1" (at 0 2.4) (layer "B.SilkS") hide
+    (fp_text reference "Q1" (at 0 2.4) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ee6f8122-204f-4ad0-87bd-1764ddffbb11)
     )
@@ -958,7 +958,7 @@
     (property "ki_keywords" "R res resistor")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/d6d38f95-bfab-48a7-bee9-97d94f52efd5")
     (attr smd)
-    (fp_text reference "R32" (at -2.4 0) (layer "B.SilkS") hide
+    (fp_text reference "R32" (at -2.4 0) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp dbf675f0-9fd4-4741-90c3-db83c47a59f3)
     )
@@ -1012,7 +1012,7 @@
     (property "ki_keywords" "connector")
     (path "/280f9c96-7ceb-4d26-b818-41a430e1f62e")
     (attr through_hole)
-    (fp_text reference "J2" (at 4.2 3.45 90) (layer "B.SilkS") hide
+    (fp_text reference "J2" (at 4.2 3.45 90) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp f9d2fc03-a82f-47a5-b384-5e997a4c9fcf)
     )
@@ -1165,7 +1165,7 @@
     (property "ki_keywords" "usb esd protection suppression transient")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/d9a68a47-237e-4e61-a146-95815c86f378")
     (attr smd)
-    (fp_text reference "D9" (at -0.86 -2.5) (layer "B.SilkS") hide
+    (fp_text reference "D9" (at -0.86 -2.5) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp e204d2e8-3ce5-489f-9d20-3a4eeb65c826)
     )
@@ -1227,7 +1227,7 @@
     (property "ki_keywords" "R resistor")
     (path "/f5830363-4787-4335-88b3-d33d6ebeafe6")
     (attr smd)
-    (fp_text reference "R2" (at 0 1.43) (layer "B.SilkS") hide
+    (fp_text reference "R2" (at 0 1.43) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b6efc761-d7dc-41f9-acbc-4e6e155a6725)
     )
@@ -1282,7 +1282,7 @@
     (property "ki_keywords" "quartz resonator ceramic")
     (path "/20469f6c-b50e-4aaf-b653-da3c7632ac62")
     (attr through_hole)
-    (fp_text reference "BZ1" (at 9.533 4.956) (layer "B.SilkS") hide
+    (fp_text reference "BZ1" (at 9.533 4.956) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 00d74d80-307d-4e99-8ea5-293bb8a3a0e8)
     )
@@ -1332,7 +1332,7 @@
     (property "ki_keywords" "capacitor cap")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/6b0781be-a7fd-4b30-84a1-d7809f4476c6")
     (attr smd)
-    (fp_text reference "C30" (at 2.28 0) (layer "B.SilkS") hide
+    (fp_text reference "C30" (at 2.28 0) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp d4a83c70-a28e-47e2-965c-c62e40388910)
     )
@@ -1386,7 +1386,7 @@
     (property "ki_keywords" "Low Power Half-Duplex RS-485 Transceiver 10Mbps")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/7e5721b1-7691-4c4d-bb3a-0c3ba61fbb90")
     (attr smd)
-    (fp_text reference "U19" (at 0.05 -2.6) (layer "B.SilkS") hide
+    (fp_text reference "U19" (at 0.05 -2.6) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3f68c5c1-149d-4c49-8ea7-0b7240fff91f)
     )
@@ -1458,7 +1458,7 @@
     (property "ki_keywords" "R res resistor")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/4bdc6a9e-800f-4a02-a9b6-555c2cc359f1")
     (attr smd)
-    (fp_text reference "R31" (at 2.5 0.1) (layer "B.SilkS") hide
+    (fp_text reference "R31" (at 2.5 0.1) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp bfa6603c-5ed3-4c31-8f74-758ea8382974)
     )
@@ -1505,7 +1505,7 @@
     (tstamp 61f98e96-d745-408a-8f00-881166d3f57e)
     (at 173.6 61.4 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "G***" (at 0 0) (layer "B.SilkS") hide
+    (fp_text reference "G***" (at 0 0) (layer "B.SilkS")
         (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
       (tstamp a2c169a2-d74a-464b-a15b-643e1d7bf7d9)
     )
@@ -2641,7 +2641,7 @@
     (property "ki_keywords" "R res resistor")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/ddc01332-53c0-492a-b5e1-0febb3469fa5")
     (attr smd)
-    (fp_text reference "R38" (at 2.7 0.11 -270) (layer "B.SilkS") hide
+    (fp_text reference "R38" (at 2.7 0.11 -270) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp da73cf3b-0acd-44ea-8f28-4daf9bcc7f4e)
     )
@@ -2695,7 +2695,7 @@
     (property "ki_keywords" "transient voltage suppressor thyrector transil")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/16c71db6-4e4c-454b-b74a-b30eea56afa6")
     (attr smd)
-    (fp_text reference "D1" (at -0.316 1.881 90) (layer "B.SilkS") hide
+    (fp_text reference "D1" (at -0.316 1.881 90) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp dd43635a-b237-4072-a232-4f6d4b7233ad)
     )
@@ -2765,7 +2765,7 @@
     (property "ki_keywords" "capacitor cap")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/ee2cf747-3002-4bbb-adb6-94586a2e8a19")
     (attr smd)
-    (fp_text reference "C32" (at 2.21 0.1) (layer "B.SilkS") hide
+    (fp_text reference "C32" (at 2.21 0.1) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ca58bdfe-72e9-427d-8e15-ca8682ce19b9)
     )
@@ -2819,7 +2819,7 @@
     (property "ki_keywords" "R res resistor")
     (path "/68cc5537-04f3-454c-b74b-4ecd749e13a7")
     (attr smd)
-    (fp_text reference "R1" (at 0 1.17) (layer "B.SilkS") hide
+    (fp_text reference "R1" (at 0 1.17) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3312be4c-9fbf-4e41-9ce2-9b3de4235edb)
     )
@@ -2873,7 +2873,7 @@
     (property "ki_keywords" "R resistor")
     (path "/2e72979e-8d67-4342-8dde-9161b294d830")
     (attr smd)
-    (fp_text reference "R3" (at 0 1.43) (layer "B.SilkS") hide
+    (fp_text reference "R3" (at 0 1.43) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 40331724-106d-4e4d-a2a4-71d85d0c5b38)
     )
@@ -2928,7 +2928,7 @@
     (property "ki_keywords" "inductor choke coil reactor magnetic")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/05c913b0-0fa6-4938-9da0-0305e143d9d6")
     (attr smd)
-    (fp_text reference "L2" (at 0 1.17) (layer "B.SilkS") hide
+    (fp_text reference "L2" (at 0 1.17) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp e065d1ff-057f-441a-8b73-b9953cf9f942)
     )
@@ -2978,7 +2978,7 @@
     (property "ki_keywords" "R res resistor")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/4defbc62-021e-4d8d-ac76-088488aeb6ec")
     (attr smd)
-    (fp_text reference "R39" (at 2.4 0.5) (layer "B.SilkS") hide
+    (fp_text reference "R39" (at 2.4 0.5) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 9d45f4fc-b238-45ba-99d9-6a293f0fabca)
     )
@@ -3032,7 +3032,7 @@
     (property "ki_keywords" "capacitor cap")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/ee15e4dd-97eb-47cb-a55d-46bdf1ea92f5")
     (attr smd)
-    (fp_text reference "C31" (at 2.28 -0.1) (layer "B.SilkS") hide
+    (fp_text reference "C31" (at 2.28 -0.1) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 423019de-47c6-4e2a-8878-7b80b56dcac7)
     )
@@ -3087,7 +3087,7 @@
     (property "ki_keywords" "inductor choke coil reactor magnetic")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/859a0606-074c-49b5-8a3c-0fe61ab02d59")
     (attr smd)
-    (fp_text reference "L1" (at 0 1.17) (layer "B.SilkS") hide
+    (fp_text reference "L1" (at 0 1.17) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 6475d69d-88cf-46d3-bff1-eb4c8639b842)
     )
@@ -3137,7 +3137,7 @@
     (property "ki_keywords" "transient voltage suppressor thyrector transil")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/4a14c2fa-3f8d-4001-b0b0-0ebaf94a1da1")
     (attr smd)
-    (fp_text reference "D2" (at -3.6 0.2 90) (layer "B.SilkS") hide
+    (fp_text reference "D2" (at -3.6 0.2 90) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 063fb912-c801-4c0e-8869-751150589bf1)
     )
@@ -3207,7 +3207,7 @@
     (property "ki_keywords" "R res resistor")
     (path "/342f5a5a-4095-4f7f-8eba-841feace6be3/4c9ac8e2-b8f1-4b6a-9da6-487e9e87bbfb")
     (attr smd)
-    (fp_text reference "R37" (at 0 -1.2) (layer "B.SilkS") hide
+    (fp_text reference "R37" (at 0 -1.2) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 4ef3c94e-c53b-4466-a9ad-52b8fe29db41)
     )
@@ -3256,7 +3256,7 @@
     (descr "Circular Fiducial, 1.5mm bare copper, 3mm soldermask opening")
     (tags "fiducial")
     (attr smd)
-    (fp_text reference "REF**" (at 0 2.4765) (layer "B.SilkS") hide
+    (fp_text reference "REF**" (at 0 2.4765) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 173afa12-c6e0-4197-8e74-d78916d9cdd0)
     )
